@@ -2,7 +2,7 @@
   {
     "original": "** ZE FFXII PARAMINA RIFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** ZE 最终幻想12: 帕拉米纳大峡谷 **",
     "jp_trans": "",
     "kr_trans": "",
     "timer_num": 0,
@@ -11,11 +11,11 @@
   {
     "original": "** [STAGE 1] PARAMINA RIFT **",
     "en_trans": "",
-    "zh_trans": "",
+    "zh_trans": "** [第一关] 帕拉米纳大峡谷 **",
     "jp_trans": "",
     "kr_trans": "",
-    "timer_num": 1,
-    "enable_timer": 1
+    "timer_num": 0,
+    "enable_timer": 0
   },
   {
     "original": "Stage 1 - Find a way through Paramina Rift and locate the",
